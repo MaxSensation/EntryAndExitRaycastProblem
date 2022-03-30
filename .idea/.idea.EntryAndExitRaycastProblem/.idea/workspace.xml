@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a1588d41-dd65-46cc-9bdc-6c69c884d54c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EntryAndExitRaycastProblem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EntryAndExitRaycastProblem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/RaycastExample.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/RaycastExample.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../Template/Assets/Scripts/MaxHelpers/Helper.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2773YyVglckmT9PgDNlC08SN6Dd" />
   <component name="ProjectViewState">
@@ -66,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648657348795</updated>
-      <workItem from="1648657352026" duration="399000" />
+      <workItem from="1648657352026" duration="3250000" />
     </task>
     <servers />
   </component>
